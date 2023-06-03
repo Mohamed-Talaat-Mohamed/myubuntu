@@ -9,3 +9,12 @@ git commit -m "${var}"
 git push
 
 
+
+#commands to clone repository
+#git push$ git clone <repo>
+#$ touch test
+#$ git add test
+#$ git commit -m "Initial commit"
+#$ git push origin main
+
+
